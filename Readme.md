@@ -53,18 +53,5 @@ Keyword analysis of job descriptions highlights top tools like:
 
 ## 📤 Cleaned Dataset Export
 
-- A cleaned `.csv` is provided for use in **Power BI dashboards** or future projects.
 
----
-
-## 📈 Power BI Dashboard (In Progress)
-
-Will include:
-- Filters by city, role, salary
-- Skill demand by role
-- Posting trends over time
-
----
-
-## 📎 Folder Structure
 
